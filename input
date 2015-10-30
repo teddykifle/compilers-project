@@ -1,0 +1,7 @@
+program teddy
+begin
+	function dosomething():integer
+	begin
+		5
+	end
+end

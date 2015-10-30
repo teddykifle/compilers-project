@@ -1,0 +1,6 @@
+{ 
+ This test is used with ScannerTest.java as a unit test, and 
+ must contain exactly '> program # account >=' in order
+ to pass the entire test.
+}
+> program  # account >=
