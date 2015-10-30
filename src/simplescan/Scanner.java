@@ -47,6 +47,7 @@ public class Scanner {
 		catch( FileNotFoundException fnfe) {
 			System.out.println("Can't find file " + inputFile + ".");
 			System.exit(1);
+			
 		}
 		this.input = new PushbackReader( fr);
 	}
